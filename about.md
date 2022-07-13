@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# Free Firm Site
+<!-- # Free Firm Site
 
 A free law firm website template built by [@digitallawyer](https://www.twitter.com/digitallawyer) using freely available software by Microsoft. **Demo: [freefirmsite.com](https://www.freefirmsite.com)**
 
@@ -119,4 +119,4 @@ The contact form on your website uses Formspree, a free, easy to use solution fo
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. -->
