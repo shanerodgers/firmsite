@@ -6,7 +6,7 @@ title: Attorneys
 # Attorneys
 <div class="card-deck">
 	{% for attorney in site.data.attorneys %}
-		  <div class="card my-3" style="min-width: 30%;">
+		  <div class="card my-3" style="min-width: 60%;">
 		    	<img src="assets/images/{{ attorney.picture }}" class="card-img" alt="...">
 		  		<div class="card-body">
 		  			<h5 class="card-title">{{ attorney.name }}</h5>
