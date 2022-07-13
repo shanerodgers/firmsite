@@ -5,7 +5,7 @@
   phone: "+1 650 000 001"
 
 - name: Stéphanie Tremblay
-  bio: Stéphanie Tremblay practises in family law, estate law and human rights. <br> <br> Stéphanie is passionate about family and estate litigation because of the relationships she likes to build with her clients. She represents clients before the Superior Court of Québec and the Québec Court of Appeal. <br> <br> Stéphanie helps her clients in matters that involve\: <br> <br> Divorce <br> Modification of accessory measures <br> Partition of assets forming part of the family patrimony and the partnership of acquests, if applicable <br> Spousal support <br> Provision of costs <br> Compensatory allowance <br> Unjust enrichment <br> Child custody and parentla alienation <br> Child support <br> Applications for relocation with the children <br> Applications to annul a will or concerning the interpretation of a will <br> Litigation related to the settlement of an estate <br> Homologation of mandates of incapacity <br> Institution of legal proceedings for protective supervision <br>  Amicable settlement negotiations
+  bio: Stéphanie Tremblay practises in family law, estate law and human rights. <br> <br> Stéphanie is passionate about family and estate litigation because of the relationships she likes to build with her clients. She represents clients before the Superior Court of Québec and the Québec Court of Appeal. <br> <br> Stéphanie helps her clients in matters that involve <br> <br> Divorce <br> Modification of accessory measures <br> Partition of assets forming part of the family patrimony and the partnership of acquests, if applicable <br> Spousal support <br> Provision of costs <br> Compensatory allowance <br> Unjust enrichment <br> Child custody and parentla alienation <br> Child support <br> Applications for relocation with the children <br> Applications to annul a will or concerning the interpretation of a will <br> Litigation related to the settlement of an estate <br> Homologation of mandates of incapacity <br> Institution of legal proceedings for protective supervision <br>  Amicable settlement negotiations
   picture: Tremblay.jpg
   email: stremblay@fourcandavocats.com
   phone: "+1 650 000 002"
@@ -21,33 +21,3 @@
   picture: stephen.jpg
   email: stephen@lawfirm.com
   phone: "+1 650 000 004"
-
-- name: Samuel Alito
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: samuel.jpg
-  email: samuel@lawfirm.com
-  phone: "+1 650 000 005"
-
-- name: Sonia Sotomayor
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: sonia.jpg
-  email: sonia@lawfirm.com
-  phone: "+1 650 000 006"
-
-- name: Elena Kagan
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: elena.jpg
-  email: elena@lawfirm.com
-  phone: "+1 650 000 007"
-
-- name: Neil Gorsuch
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: neil.jpg
-  email: neil@lawfirm.com
-  phone: "+1 650 000 008"
-
-- name: Brett Kavanaught
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien.
-  picture: brett.jpg
-  email: brett@lawfirm.com
-  phone: "+1 650 000 009"
