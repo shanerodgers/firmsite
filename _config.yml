@@ -4,7 +4,7 @@
 title: "Fourcand"
 
 # The email address of your law firm. Messages sent using the contact form will arrive at this address.
-email: "pfourcand@fourcandavocats.com"
+email: "info@ftkpavocats.com"
 
 # The phone number of your law firm. This will be displayed on the website.
 phone: "+1 514 297-3511"
@@ -27,7 +27,7 @@ disclaimer: ""
 secondary_tagline: ""
 
 # The url of the main image of your website. This image is displayed front and center on the home page. 
-background_image: assets/images/Background.jpg
+background_image: assets/images/Background.png
 
 repository: ""
 
